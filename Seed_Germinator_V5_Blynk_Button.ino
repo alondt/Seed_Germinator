@@ -4,9 +4,9 @@
 
 #include <time.h>
 
-const char* ssid = "Londtfamily";
-const char* password = "***REMOVED***";
-char auth[] = "***REMOVED***"; // Blynk authorization key
+const char* ssid = "Enter your Login";
+const char* password = "Enter Your password";
+char auth[] = "Insert Blynk auth code"; // Blynk authorization key
 const char* Status = "Unknown";
 int timezone = 140;
 
